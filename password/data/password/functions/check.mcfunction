@@ -1,6 +1,6 @@
 #> password:check
 
-#> Password Check
+## Password Check
 
 ## 近くのアマスタから持ってくる
   execute store result score #A password_1 run scoreboard players get @s password_1
